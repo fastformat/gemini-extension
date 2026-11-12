@@ -1,0 +1,12 @@
+{
+  "name": "fastformat",
+  "version": "1.0.0",
+  "description": "Formata trabalhos acadêmicos em ABNT, cadastra referências conferidas e gera o PDF. / Format academic papers (ABNT), add verified references, and generate a PDF.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "fastformat": {
+      "url": "https://fastformat.co/mcp",
+      "type": "http"
+    }
+  }
+}
