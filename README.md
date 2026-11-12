@@ -43,7 +43,7 @@ A browser window opens so you can sign in to FastFormat and authorize access. Yo
 - Connector guide: [fastformat.co/conector](https://fastformat.co/conector)
 - Privacy policy: [app.fastformat.co/privacy](https://app.fastformat.co/privacy)
 - Terms of use: [app.fastformat.co/tos](https://app.fastformat.co/tos)
-- Support: [suporte@fastformat.com.br](mailto:suporte@fastformat.com.br)
+- Support: [contato@fastformat.com.br](mailto:contato@fastformat.com.br)
 
 ## Português
 
@@ -80,7 +80,7 @@ O navegador abre para você entrar no FastFormat e autorizar o acesso. A senha p
 - Página do conector: [fastformat.co/conector](https://fastformat.co/conector)
 - Política de Privacidade: [app.fastformat.co/privacy](https://app.fastformat.co/privacy)
 - Termos de Uso: [app.fastformat.co/tos](https://app.fastformat.co/tos)
-- Suporte: [suporte@fastformat.com.br](mailto:suporte@fastformat.com.br)
+- Suporte: [contato@fastformat.com.br](mailto:contato@fastformat.com.br)
 
 ## License
 
